@@ -15,9 +15,9 @@ GitHub: [YOUR_HANDLE](https://github.com/YOUR_HANDLE)<br/>
 {
   "data": {
     "mutateAccount": {
-      "id": "a10db030-ded8-4397-a78f-30b79d3497ab",
-      "name": "MY NAME",
-      "email": "MY EMAIL"
+      "id": "21e44180-ac1b-4cfb-a6c4-b934b842eef4",
+      "name": "Justin Kim",
+      "email": "tymenight@gmail.com"
     }
   }
 }
